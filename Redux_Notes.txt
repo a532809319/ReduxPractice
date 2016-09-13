@@ -1,0 +1,14 @@
+What is Redux?
+
+	Redux is a predictable state container for JS apps. Helps write applications that behave in a consistent way, and that will run in different React Environments (client-side, server-side and native).
+
+	Redux is the used for the DATA container within the web application and react is used to contain the views in the application. Redux helps to 'centralize' all the data that is used by the application (THE STATE OF THE WHOLE APPLICATION). 
+
+	Reducers are functions that return a piece of the Web Applications STATE, because an application can have many different pieces of state, there can be many different Reducers. 
+
+	**** Data ---> database of all books (1 peice of STATE) & active books (another peice of STATE) ****
+
+
+
+
+
